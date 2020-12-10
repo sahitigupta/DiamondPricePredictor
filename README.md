@@ -1,7 +1,7 @@
 # DiamondPricePrediction
 Diamond price prediction uses predictive analysis to predict the price of a diamond based on previous inputs observed from the training set.
 
-### Description od the dataset
+### Description of the dataset
 #### Context
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds.
 #### Content
